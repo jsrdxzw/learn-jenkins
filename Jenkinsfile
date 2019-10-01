@@ -4,10 +4,9 @@ pipeline {
         stage('build') {
             steps {
                 script {
-                    def browsers = ['chrome', 'firefox']
-                    for (int i = 0; i < browsers.size(); i++) {
-                        echo "Testing the ${browsers[i]} browser"
-                    }
+                    writeFile(file: 'base64File', text: 'amVueavuwqe', encoding = 'Base64')
+                    def content = readFile(file: 'base64File', encoding = 'UTF-8')
+                    echo "${content}"
                 }
             }
             post {

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832adf61-1f2c-4872-9ad8-5a02e47480f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jsrdxzw/KotlinLearn.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +14,14 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,7 +90,8 @@
       <workItem from="1569852750107" duration="787000" />
       <workItem from="1569898495820" duration="819000" />
       <workItem from="1569904448185" duration="936000" />
-      <workItem from="1569907377753" duration="2858000" />
+      <workItem from="1569907377753" duration="3443000" />
+      <workItem from="1569917575793" duration="170000" />
     </task>
     <servers />
   </component>
