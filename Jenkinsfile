@@ -1,8 +1,10 @@
 pipeline {
    agent any
    stages {
-     stage('build'){
-       echo 'build stage'
+     stage('build') {
+      steps {
+        echo 'build stage'
+      }
      }
      post {
        always {
