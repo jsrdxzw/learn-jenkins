@@ -54,7 +54,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -82,7 +82,7 @@
       <workItem from="1569852750107" duration="787000" />
       <workItem from="1569898495820" duration="819000" />
       <workItem from="1569904448185" duration="936000" />
-      <workItem from="1569907377753" duration="544000" />
+      <workItem from="1569907377753" duration="2153000" />
     </task>
     <servers />
   </component>
