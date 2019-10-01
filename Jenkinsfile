@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 script {
-                    writeFile(file: 'base64File', text: 'amVueavuwqe', encoding = 'Base64')
+                    writeFile(file: 'base64File', text: 'jenkins book', encoding = 'UTF-8')
                     def content = readFile(file: 'base64File', encoding = 'UTF-8')
                     echo "${content}"
                 }
