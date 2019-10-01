@@ -5,12 +5,12 @@ pipeline {
       steps {
         echo 'build stage'
       }
-     }
      post {
        always {
         echo 'stage post always'
        }
      }
+    }
    }
    post{
     changed{
